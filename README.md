@@ -1,4 +1,4 @@
-#Construindo o primeiro jogo de naves
+### Construindo o primeiro jogo de naves
 
 Neste projeto, recriei o jogo de naves do curso oferecido pela Digital Innovation One.
 
